@@ -1,0 +1,120 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 08.08.2018 09:58:10
+
+newmtl st_wood
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9922 0.9804 0.8941
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\tile bru.jpg
+	map_Kd D:\New folder 2\tile bru.jpg
+
+newmtl Mat_win
+	Ns 75.0000
+	Ni 1.5000
+	d 0.6500
+	Tr 0.6500
+	Tf 0.6500 0.6500 0.6500 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3647 0.3137 0.2941
+	Ks 0.5948 0.5948 0.5948
+	Ke 0.3216 0.3216 0.3216
+
+newmtl broun
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6784 0.5216 0.4353
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\7_1_25_d.jpg
+	map_Kd D:\New folder 2\7_1_25_d.jpg
+
+newmtl blue
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6627 0.8431 0.9686
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\7_1_blue.jpg
+	map_Kd D:\New folder 2\7_1_blue.jpg
+
+newmtl red
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7843 0.3176 0.1765
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\23 red.jpg
+	map_Kd D:\New folder 2\23 red.jpg
+
+newmtl br
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7843 0.3176 0.1765
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\brownd_4.jpg
+	map_Kd D:\New folder 2\brownd_4.jpg
+
+newmtl st_tile
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8353 0.5059 0.6157
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\6_1_2_B.jpg
+	map_Kd D:\New folder 2\6_1_2_B.jpg
+
+newmtl Material__11
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 0.0000 0.0000
+
+newmtl wire_086086086
+	Ns 32
+	d 1
+	Tr 1
+	Tf 1 1 1
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3373 0.3373 0.3373
+	Ks 0.3500 0.3500 0.3500
